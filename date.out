@@ -1,0 +1,31 @@
+Input din fisierul date5.in
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Arborele are radacina: 9013970058448323005
+
+Minimul multimii este: -9223214921555139533
+Maximul multimii este: 9222803615108592029
+
+Cardinalul multimii este: 100000
+
+Succesorul lui -9214106200188073609 este -9213984957350451117 iar predecesorul lui este: -9214221999099482698
+Succesorul lui -5803490296713289128 este -5803205796941695282 iar predecesorul lui este: -5803604497218118719
+Succesorul lui -8038590541626839142 este -8038210173852294984 iar predecesorul lui este: -8038845260283982782
+Succesorul lui -4301243593670132090 este -4301222810371983017 iar predecesorul lui este: -4301319832877360856
+Succesorul lui -5670262816708882933 este -5669940922973997261 iar predecesorul lui este: -5670424889402635830
+Succesorul lui -6319766409558144109 este -6319729564364461756 iar predecesorul lui este: -6319870255132271758
+Succesorul lui -7100960973087846347 este -7100864314412660911 iar predecesorul lui este: -7101332045988889267
+Succesorul lui -3756706551188601605 este -3756341714755747981 iar predecesorul lui este: -3756853896748926912
+Succesorul lui -4217841981336850903 este -4217693373388139328 iar predecesorul lui este: -4217893620305637697
+Succesorul lui -4683681830280486460 este -4683644113157026892 iar predecesorul lui este: -4683764259012234100
+
+Am sters elementul -8155057337635877239		 Noul cardinal este: 99999
+Am sters elementul -3992221540745441770		 Noul cardinal este: 99998
+Am sters elementul -4908091933103378797		 Noul cardinal este: 99997
+Am sters elementul -6099997642827857561		 Noul cardinal este: 99996
+Am sters elementul -7380935762991502740		 Noul cardinal este: 99995
+Am sters elementul -9133078338078907372		 Noul cardinal este: 99994
+Am sters elementul -8660456076660093414		 Noul cardinal este: 99993
+Am sters elementul -7014785741477943224		 Noul cardinal este: 99992
+Am sters elementul -8321088326322201915		 Noul cardinal este: 99991
+Am sters elementul -8203680717806137903		 Noul cardinal este: 99990
